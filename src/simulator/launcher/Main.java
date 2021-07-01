@@ -1,3 +1,7 @@
+/*
+@author Maryny Zara Castada Collado
+@author Michelle Guerra Gallegos
+*/
 package simulator.launcher;
 
 import java.io.FileInputStream;
